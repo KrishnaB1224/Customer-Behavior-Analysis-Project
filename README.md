@@ -1,5 +1,5 @@
 # Customer-Behavior-Analysis-Project
-Overview
+##Overview
 
 This project is an independently completed end-to-end data analytics project focused on analyzing customer shopping behavior to generate actionable business insights. The project covers data loading, exploratory data analysis, data cleaning, SQL-based analysis, and dashboard visualization. All analysis, coding, querying, dashboarding, and presentation work was performed manually by me without using any AI tools.
 
